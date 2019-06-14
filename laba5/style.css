@@ -1,0 +1,8 @@
+.tab{
+	border: 3px ridge #ddd;
+	border-collapse: collapse
+}
+.main-tab{
+	border: 5px ridge #ddd;
+	border-collapse: collapse;
+}
